@@ -1,6 +1,6 @@
 class Fibonacci{
 	public static void main(String[] args){
-		int cantidad=11;
+		int cantidad=19;
 		fibonacci1(cantidad);
 		System.out.println();
 		fibonacci2(cantidad);
